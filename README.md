@@ -1,4 +1,4 @@
-# Termica
+# Join the waitlist!
 
 Designed by a paragliding pilot for fellow pilots, our upcoming web app offers flight tracking, events live-tracking, and a thriving community.
 
